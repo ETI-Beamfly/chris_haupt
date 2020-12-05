@@ -1,2 +1,2 @@
-### Search Bar Demo
+## Search Bar Demo
 ### Candidate: Chris Haupt
